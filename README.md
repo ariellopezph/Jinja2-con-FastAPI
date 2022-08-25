@@ -1,7 +1,6 @@
 # Jinja2-con-FastAPI
 
-En este proyecto se implementara Jinja2 para darle un aspecto agradable al usuario. Se trabajara en el Frontend utilizando HTML y Css.
-Utilizaremos una base de dato MySQL.
+En este proyecto se implemento Jinja2 para darle un aspecto agradable al usuario y utilizamos una base de datos MySQL.
 
 Para comenzar pondremos en marcha el servidor uvicorn, seguido del modulo y la aplicacion, todo desde una terminal.
 $ uvicorn main:app
